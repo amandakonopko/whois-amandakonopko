@@ -27,5 +27,15 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "_release": "0.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.0",
+    "commit": "bb3a36567ab5b1a9e144e30dd67abe93cb897b98"
+  },
+  "_source": "git://github.com/philippbosch/jquery-snappish.git",
+  "_target": "~0.2.0",
+  "_originalSource": "jquery-snappish",
+  "_direct": true
 }
